@@ -1,14 +1,11 @@
 import './App.css'
-import HomePage from "./HomePage/HomePage.jsx";
+import Toggle from "./state/Toggle.jsx";
 
 function App() {
 
     return (
         <>
-            <h1>Welcome to my app</h1>
-            <div>
-                <HomePage/>
-            </div>
+            <Toggle/>
         </>
     )
 }

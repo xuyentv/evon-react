@@ -1,0 +1,1 @@
+- read-only : component con khong duoc phep thay doi trcu tiep props.
